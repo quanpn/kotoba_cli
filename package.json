@@ -2,7 +2,7 @@
   "name": "kotoba_cli",
   "version": "1.0.0",
   "description": "Firebase database manager command line tool",
-  "main": "index.js",
+  "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,10 +14,17 @@
     "firebase",
     "firestore"
   ],
+  "bin": {
+    "kotoba": "./bin/index.js"
+  },
   "author": "p.n.quan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/quanpn/kotoba_cli/issues"
   },
-  "homepage": "https://github.com/quanpn/kotoba_cli#readme"
+  "homepage": "https://github.com/quanpn/kotoba_cli#readme",
+  "dependencies": {
+    "boxen": "^4.0.0",
+    "chalk": "^2.4.2"
+  }
 }
