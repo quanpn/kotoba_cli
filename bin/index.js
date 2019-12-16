@@ -4,6 +4,7 @@ var admin = require("firebase-admin");
 
 const options = yargs
  .usage("Usage:  [command] [param]")
+ .option("s", { alias: "service_account", describe: "Path to a JSON file with your service account credentials.", type: "string"})
  .option("e", { alias: "export", describe: "Export a collection", type: "string"})
  .argv;
 
@@ -16,7 +17,7 @@ if (options.export) {
 var serviceAccount = "cert/kotoba-1042b-firebase-adminsdk-pspi7-968ad4d0f3.json";
 
 admin.initializeApp({
-  credential: admin.credential.cert(serviceAccount),
+  credential: admin.credential.cert(options.service_account),
   databaseURL: "https://kotoba-1042b.firebaseio.com"
 });
 
