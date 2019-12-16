@@ -4,7 +4,7 @@ var admin = require("firebase-admin");
 
 const options = yargs
  .usage("Usage:  [command] [param]")
- .option("e", { alias: "export", describe: "Export a collection", type: "string", demandOption: true })
+ .option("e", { alias: "export", describe: "Export a collection", type: "string"})
  .argv;
 
 if (options.export) {
@@ -19,3 +19,10 @@ admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
   databaseURL: "https://kotoba-1042b.firebaseio.com"
 });
+
+var db = admin.database();
+var ref = db.ref("restricted_access/secret_document");
+ref.once("value", function(snapshot) {
+  console.log(snapshot.val());
+});
+
