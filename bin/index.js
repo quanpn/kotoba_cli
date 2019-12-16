@@ -13,7 +13,7 @@ if (options.export) {
  console.log("There is not any command...Do nothing");
 }
 
-var serviceAccount = "cert/kotoba-1042b-firebase-adminsdk-pspi7-bedf63e907.json";
+var serviceAccount = "cert/kotoba-1042b-firebase-adminsdk-pspi7-968ad4d0f3.json";
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
