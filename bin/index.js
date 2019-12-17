@@ -21,9 +21,14 @@ admin.initializeApp({
   databaseURL: "https://kotoba-1042b.firebaseio.com"
 });
 
-var db = admin.database();
-var ref = db.ref("restricted_access/secret_document");
-ref.once("value", function(snapshot) {
-  console.log(snapshot.val());
-});
+var db = admin.firestore();
 
+db.collection('Contents').get()
+  .then((snapshot) => {
+    snapshot.forEach((doc) => {
+      console.log(doc.id, '=>', doc.data());
+    });
+  })
+  .catch((err) => {
+    console.log('Error getting documents', err);
+  });
