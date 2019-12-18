@@ -14,12 +14,18 @@ if (options.export) {
  console.log("There is not any command...Do nothing");
 }
 
-//var serviceAccount = "cert/kotoba-1042b-firebase-adminsdk-pspi7-968ad4d0f3.json";
+/*
+Using default cert by command
+export GOOGLE_APPLICATION_CREDENTIALS=/workspace/kotoba_cli/cert/key.json 
+
 var serviceAccount = require(options.service_account);
+
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
   databaseURL: "https://kotoba-1042b.firebaseio.com"
 });
+*/
+
 
 var db = admin.firestore();
 
