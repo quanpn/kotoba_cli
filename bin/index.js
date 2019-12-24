@@ -2,7 +2,7 @@
 const yargs = require("yargs");
 var admin = require("firebase-admin");
 var firestoreLib = require("node-firestore-import-export");
-
+var loadJsonFile = require("load-json-file"); 
 var fs = require("fs");
 
 const options = yargs
@@ -67,6 +67,9 @@ if (options.export) {
     
 
 
+} else if (options.import) {
+  const data = loadJsonFile(options.import);
+  firestoreLib.firestoreImport(data, collection)
 }
 
 
