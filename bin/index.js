@@ -2,19 +2,19 @@
 const yargs = require("yargs");
 var admin = require("firebase-admin");
 var firestoreLib = require("node-firestore-import-export");
-var loadJsonFile = require("load-json-file"); 
+var loadJsonFile = require("load-json-file");
 var fs = require("fs");
 
 const options = yargs
- .usage("Usage:  [command] [param]")
- .option("s", { alias: "service_account", describe: "Path to a JSON file with your service account credentials.", type: "string", demandOption: true})
- .option("n", { alias: "node", describe: "Node collection need do export/import", type: "string", demandOption: true})
- .option("e", { alias: "export", describe: "Path to file to export a collection", type: "string"})
- .option("i", { alias: "import", describe: "Path to file to import a collection", type: "string"})
- .argv;
+  .usage("Usage:  [command] [param]")
+  .option("s", { alias: "service_account", describe: "Path to a JSON file with your service account credentials.", type: "string", demandOption: true })
+  .option("n", { alias: "node", describe: "Node collection need do export/import", type: "string", demandOption: true })
+  .option("e", { alias: "export", describe: "Path to file to export a collection", type: "string" })
+  .option("i", { alias: "import", describe: "Path to file to import a collection", type: "string" })
+  .argv;
 
 if (options.export) {
- console.log(`Doing export to ${options.export}...`)
+  console.log(`Doing export to ${options.export}...`)
 } else if (options.import) {
   console.log(`Doing import from ${options.import}...`)
 } else {
@@ -39,14 +39,14 @@ var collection = admin.firestore().collection(options.node);
 
 if (options.export) {
   firestoreLib.firestoreExport(collection)
-    .then(data=> {
+    .then(data => {
       let stringResults;
-      
+
       stringResults = JSON.stringify(data, null, 2);
-      
+
       return stringResults;
     })
-    .then(jsonData=>{
+    .then(jsonData => {
       fs.writeFile(options.export, jsonData, 'utf8', err => {
         if (err) {
           console.log(err);
@@ -64,12 +64,27 @@ if (options.export) {
       }
     })
     ;
-    
+
 
 
 } else if (options.import) {
-  const data = loadJsonFile(options.import);
-  firestoreLib.firestoreImport(data, collection)
+  loadJsonFile(options.import).then((data) =>
+    firestoreLib.firestoreImport(data, collection, true)
+      .then(() => {
+        console.log('All done 🎉');
+      })
+      .catch((error) => {
+        if (error instanceof Error) {
+          console.log(`${error.name}: ${error.message}`);
+          console.log(error.stack.toString());
+          process.exit(1);
+        } else {
+          console.log(error);
+        }
+      })
+  );
+
+
 }
 
 
