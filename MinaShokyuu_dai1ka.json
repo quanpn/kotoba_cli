@@ -1,0 +1,591 @@
+{
+  "5sSWcXJ4SMXVtj5THc3d": {
+    "pid": "bJOj9iVNKLvocyX9pMao",
+    "contentType": 1,
+    "name": "\u7B2C 2 \u8AB2",
+    "index": 2,
+    "__collections__": {
+    }
+  },
+  "BpfmOt8oVRpq9SxAehKI": {
+    "pid": "bJOj9iVNKLvocyX9pMao",
+    "contentType": 1,
+    "name": "\u7B2C 3 \u8AB2",
+    "index": 3,
+    "__collections__": {
+    }
+  },
+  "FOcBNkkExDarB7epS4Ms": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\uFF5E\u3061\u3083\u3093",
+    "index": 8,
+    "hasChild": false,
+    "mean": "\u0111i k\u00E8m theo t\u00EAn, d\u00F9ng \u0111\u1EC3 g\u1ECDi c\u00E1c b\u00E9 g\u00E1i thay cho \u3055\u3093",
+    "description": "Linh \u3061\u3083\u3093<br> B\u00E9 Linh",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%207%20-%20chan.mp3?alt=media&token=090d70cc-45cd-41ef-8d07-9575052410eb",
+    "__collections__": {
+    }
+  },
+  "K6WSAgV8RcLVF6tCcvfO": {
+    "pid": "TW1X5JlMjjJsAJOV5BtU",
+    "contentType": 1,
+    "name": "2 - \u6587\u6CD5",
+    "index": 2,
+    "__collections__": {
+    }
+  },
+  "M6YZ0NnZhPDsd9zqt0A8": {
+    "pid": "bJOj9iVNKLvocyX9pMao",
+    "contentType": 1,
+    "name": "\u7B2C 4 \u8AB2",
+    "index": 4,
+    "__collections__": {
+    }
+  },
+  "QZhWZCmk0WnYCDQOqDoc": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\uFF5E\u304F\u3093",
+    "index": 9,
+    "hasChild": false,
+    "mean": "\u0111i k\u00E8m theo t\u00EAn, d\u00F9ng \u0111\u1EC3 g\u1ECDi c\u00E1c b\u00E9 trai thay cho \u3055\u3093",
+    "description": "\u3057\u3093\u304F\u3093<br>B\u00E9 Shin",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%208%20-%20kun.mp3?alt=media&token=2238a70a-2275-43da-afc8-abfff89fc3e4",
+    "__collections__": {
+    }
+  },
+  "TW1X5JlMjjJsAJOV5BtU": {
+    "pid": "bJOj9iVNKLvocyX9pMao",
+    "contentType": 1,
+    "name": "\u7B2C 1 \u8AB2",
+    "index": 1,
+    "__collections__": {
+    }
+  },
+  "TqzlZB5wMN7WiZ92TxG9": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\uFF5E\u3055\u3093",
+    "index": 7,
+    "hasChild": false,
+    "mean": "\u00D4ng ~, B\u00E0 ~, Anh ~, Ch\u1ECB ~",
+    "description": "\u0111i k\u00E8m theo t\u00EAn, d\u00F9ng \u0111\u1EC3\r\ng\u1ECDi t\u00EAn ng\u01B0\u1EDDi kh\u00E1c m\u1ED9t c\u00E1ch l\u1ECBch s\u1EF1",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%206%20-%20san.mp3?alt=media&token=4f045fd8-52d7-4445-be1c-a6e3a40eb509",
+    "__collections__": {
+    }
+  },
+  "VIKMI11ES7195uX6W8oc": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3042\u306E\u304B\u305F",
+    "index": 5,
+    "hasChild": false,
+    "mean": "v\u1ECB \u0111\u00F3, v\u1ECB kia",
+    "description": "C\u00E1nh n\u00F3i l\u1ECBch s\u1EF1 c\u1EE7a \u3042\u306E\u4EBA",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%205%20-%20anatakata.mp3?alt=media&token=3670b842-3c96-414e-9152-a7f8e21d7b1b",
+    "__collections__": {
+    }
+  },
+  "ZgEuHzvWW9HafK0POMWn": {
+    "pid": "TW1X5JlMjjJsAJOV5BtU",
+    "contentType": 1,
+    "name": "1 - \u8A00\u8449",
+    "index": 1,
+    "__collections__": {
+    }
+  },
+  "bJOj9iVNKLvocyX9pMao": {
+    "contentType": 0,
+    "name": "Mina no nihongo Shokyuu I",
+    "index": 1,
+    "hasChild": true,
+    "description": "Mina no nihongo Shokyuu I",
+    "level": "N5",
+    "coverUrl": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Images%2FMinaNoNihongoI%2Fmina_no_nihongo_1.jpg?alt=media&token=9ce887d9-12d8-41cd-bd04-e390f8cb055d",
+    "__collections__": {
+    }
+  },
+  "knAd0md5g7wlFTa4UWdp": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u308F\u305F\u3057",
+    "index": 1,
+    "hasChild": false,
+    "mean": "T\u00F4i",
+    "description": " Ng\u00F4i th\u1EE9 nh\u1EA5t s\u1ED1 \u00EDt",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%201%20-%20watashi.mp3?alt=media&token=853b031c-379d-409d-bd29-70c5a3bb867a",
+    "read": "\u79C1",
+    "__collections__": {
+    }
+  },
+  "mKMXEBxRKZir7XDVq8qc": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u308F\u305F\u3057\u305F\u3061",
+    "index": 2,
+    "hasChild": false,
+    "mean": "Ch\u00FAng t\u00F4i, ch\u00FAng ta",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%202%20-%20watashitachi.mp3?alt=media&token=91758f94-1b63-4ddd-a3e9-bfd8efd2bcbf",
+    "read": "\u79C1\u305F\u3061",
+    "__collections__": {
+    }
+  },
+  "rhd74C25xvV4TpHKlE2p": {
+    "pid": "TW1X5JlMjjJsAJOV5BtU",
+    "contentType": 1,
+    "name": "3 - \u8074\u53D6",
+    "index": 3,
+    "__collections__": {
+    }
+  },
+  "tzcKuYtHKmUWa3uPTK1v": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u307F\u306A\u3055\u3093",
+    "index": 6,
+    "hasChild": false,
+    "mean": "C\u00E1c b\u1EA1n, c\u00E1c anh, c\u00E1c ch\u1ECB, m\u1ECDi ng\u01B0\u1EDDi\u2026",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%206%20-%20minasan.mp3?alt=media&token=423ad851-c333-4a6a-82be-dc964c0e0a4c",
+    "read": "\u7686\u3055\u3093",
+    "__collections__": {
+    }
+  },
+  "whidiFD8QDKF2yTV0gbf": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3042\u306A\u305F",
+    "index": 3,
+    "hasChild": false,
+    "mean": "B\u1EA1n, \u00F4ng, b\u00E0, anh, ch\u1ECB",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%203%20-%20anata.mp3?alt=media&token=53d779bd-82ee-4cde-a206-aeef53cbc199",
+    "__collections__": {
+    }
+  },
+  "zOtOUsGtev2WncJ0Kt8P": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3042\u306E\u3072\u3068",
+    "index": 4,
+    "hasChild": false,
+    "mean": "Ng\u01B0\u1EDDi \u1EA5y, ng\u01B0\u1EDDi kia",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%204%20-%20anohito.mp3?alt=media&token=bd31e00d-8317-4ec4-89e3-51106b150ee1",
+    "__collections__": {
+    }
+  },
+  "jQmSqVsXu2x4z7C9EbHe": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\uFF5E\u3058\u3093",
+    "index": 10,
+    "hasChild": false,
+    "mean": "ng\u01B0\u1EDDi n\u01B0\u1EDBc ~",
+    "description": "\u0110i k\u00E8m theo t\u00EAn n\u01B0\u1EDBc<br>\r\n\u30D9\u30C8\u30CA\u30E0\u3058\u3093 \u30D9\u30C8\u30CA\u30E0\u4EBA<br>\r\nNg\u01B0\u1EDDi Vi\u1EC7t Nam",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%209%20-%20jin.mp3?alt=media&token=9a9d9221-9cea-49ff-b24c-1eb93fe7ea77",
+    "__collections__": {
+    }
+  },
+  "B8DaFdJfMhQmSpUsXuZx": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u305B\u3093\u305B\u3044",
+    "index": 11,
+    "hasChild": false,
+    "mean": "Th\u1EA7y gi\u00E1o (c\u00F4 gi\u00E1o), gi\u00E1o vi\u00EAn",
+    "description": "kh\u00F4ng d\u00F9ng \u0111\u1EC3 ch\u1EC9 ngh\u1EC1\r\nnghi\u1EC7p, \u0111i k\u00E8m v\u1EDBi t\u00EAn \u0111\u1EC3 g\u1ECDi gi\u00E1o vi\u00EAn<br>\r\nNam \u5148\u751F\u2192 th\u1EA7y Nam",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2010%20-%20sensei.mp3?alt=media&token=ac8141ad-c8cb-4e8b-8d77-23bda8947c97",
+    "read": "\u5148\u751F",
+    "__collections__": {
+    }
+  },
+  "rWtZw3y5B8DaFdJfMhQm": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u304D\u3087\u3046\u3057",
+    "index": 12,
+    "hasChild": false,
+    "mean": "Nh\u00E0 gi\u00E1o, gi\u00E1o vi\u00EAn",
+    "description": "D\u00F9ng \u0111\u1EC3 ch\u1EC9 ngh\u1EC1 nghi\u1EC7p, d\u00F9ng khi\r\ngi\u1EDBi thi\u1EC7u ngh\u1EC1 nghi\u1EC7p c\u1EE7a m\u00ECnh (t\u00F4i l\u00E0m ngh\u1EC1 gi\u00E1o vi\u00EAn)",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2011%20-%20kyoushi.mp3?alt=media&token=c4c8d98b-1487-4674-a83c-ede10f859466",
+    "read": "\u6559\u5E2B",
+    "__collections__": {
+    }
+  },
+  "HeKhPkRpUrWtZw3y5B8D": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u304C\u304F\u305B\u3044",
+    "index": 13,
+    "hasChild": false,
+    "mean": "H\u1ECDc sinh, sinh vi\u00EAn",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2012%20-%20gakusei.mp3?alt=media&token=cff88bde-98bc-4b50-a274-9f8f851e99af",
+    "read": "\u5B66\u751F",
+    "__collections__": {
+    }
+  },
+  "x5A7C9FcHeMhPkRpUrWt": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u304B\u3044\u3057\u3083\u3044\u3093",
+    "index": 14,
+    "hasChild": false,
+    "mean": "Nh\u00E2n vi\u00EAn c\u00F4ng ty n\u00F3i chung",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2013%20-%20kaishain.mp3?alt=media&token=7ce010fa-3ea5-4a89-9a55-044b812eb0c4",
+    "read": "\u4F1A\u793E\u54E1",
+    "__collections__": {
+    }
+  },
+  "NjRnTqVtYv2x5A7CaFcH": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3057\u3083\u3044\u3093",
+    "index": 15,
+    "hasChild": false,
+    "mean": "Nh\u00E2n vi\u00EAn c\u1EE7a m\u1ED9t c\u00F4ng ty c\u1EE5 th\u1EC3",
+    "description": "FPT \u306E\u793E\u54E1",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2014%20-%20shain.mp3?alt=media&token=ee5fbf88-604a-46a5-8aca-4c3ebb8b4177",
+    "read": "\u793E\u54E1",
+    "__collections__": {
+    }
+  },
+  "6B9EbGeKgNjRnTqVtYv2": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u304E\u3093\u3053\u3046\u3044\u3093",
+    "index": 16,
+    "hasChild": false,
+    "mean": "Nh\u00E2n vi\u00EAn ng\u00E2n h\u00E0ng",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2015%20-%20genkouin.mp3?alt=media&token=f026174e-6aa8-4785-abc5-2b9050b90828",
+    "read": "\u9280\u884C\u54E1",
+    "__collections__": {
+    }
+  },
+  "SpVsXuZx4z6C9EbGeKgN": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3044\u3057\u3083",
+    "index": 17,
+    "hasChild": false,
+    "mean": "B\u00E1c s\u1EF9",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2016%20-%20isha.mp3?alt=media&token=05c86778-f11c-44ab-8e51-4e373c6d0118",
+    "read": "\u533B\u8005",
+    "__collections__": {
+    }
+  },
+  "aGdJfMjQmSpVsXu2x4z6": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3051\u3093\u304D\u3085\u3046\u3057\u3083",
+    "index": 18,
+    "hasChild": false,
+    "mean": "Nh\u00E0 nghi\u00EAn c\u1EE9u",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2017%20-%20kenkyuusha.mp3?alt=media&token=e3aab039-cbb6-440a-9e42-97ba2af236ea",
+    "read": "\u7814\u7A76\u8005",
+    "__collections__": {
+    }
+  },
+  "rWuZw3y6B8DaGdJfMjQm": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u30A8\u30F3\u30B8\u30CB\u30A2",
+    "index": 19,
+    "hasChild": false,
+    "mean": "K\u1EF9 s\u01B0",
+    "description": "\u304E\u3058\u3085\u3064\u3057\u3083",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2018%20-%20enjinia.mp3?alt=media&token=e6c1fe8d-36ec-4924-a785-3c4b8b5fe23e",
+    "__collections__": {
+    }
+  },
+  "FcHeMhPkSpUrWuZw3y6B": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3060\u3044\u304C\u304F",
+    "index": 20,
+    "hasChild": false,
+    "mean": "\u0110\u1EA1i h\u1ECDc",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2019%20-%20daigaku.mp3?alt=media&token=e9459fc8-fe7c-4682-8ef3-1e55a4c8ef1f",
+    "read": "\u5927\u5B66",
+    "__collections__": {
+    }
+  },
+  "JgNjQmTqVsXv2x4z7C9E": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3073\u3087\u3046\u3044\u3093",
+    "index": 21,
+    "hasChild": false,
+    "mean": "B\u1EC7nh vi\u1EC7n",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2020%20-%20byouin.mp3?alt=media&token=a20c58cd-94a2-43d8-8a48-0851bd0c9738",
+    "read": "\u75C5\u9662",
+    "__collections__": {
+    }
+  },
+  "JfMhPmSpUrXuZw3z6B8E": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3067\u3093\u304D",
+    "index": 22,
+    "hasChild": false,
+    "mean": "\u0110i\u1EC7n\u3001\u0111i\u1EC7n l\u1EF1c",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2021%20-%20tenki.mp3?alt=media&token=710f6719-f7df-4bcc-91c7-b73853af73ad",
+    "read": "\u96FB\u6C17",
+    "__collections__": {
+    }
+  },
+  "eKgPkRnTrWtYv3y5A8Da": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3060\u308C",
+    "index": 23,
+    "hasChild": false,
+    "mean": "Ai",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2022%20-%20dare.mp3?alt=media&token=b54451f2-a801-492c-aac9-89b57d1d0934",
+    "__collections__": {
+    }
+  },
+  "bGdJgNjQmTqVsXv2x4A7": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3069\u306A\u305F",
+    "index": 24,
+    "hasChild": false,
+    "mean": "Ai",
+    "description": "c\u00E1ch n\u00F3i l\u1ECBch s\u1EF1 c\u1EE7a \u3060\u308C",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2023%20-%20donata.mp3?alt=media&token=8943feb0-2803-4bf3-8065-f228526e7141",
+    "__collections__": {
+    }
+  },
+  "DaFcJfMhPmSpUrXuZw4z": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\uFF5E\u3055\u3044",
+    "index": 25,
+    "hasChild": false,
+    "mean": "\uFF5E tu\u1ED5i",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2024%20-%20sai.mp3?alt=media&token=1fcce9eb-6b34-4a3d-9665-7b081d13e6d3",
+    "read": "\uFF5E\u6B73",
+    "__collections__": {
+    }
+  },
+  "C9EcHeKgPkRnTrWtYv3y": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u306A\u3093\u3055\u3044",
+    "index": 26,
+    "hasChild": false,
+    "mean": "M\u1EA5y tu\u1ED5i?",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2025%20-%20nansai.mp3?alt=media&token=4fc6ccd9-6306-4c29-90dc-2435fdfa6f4c",
+    "read": "\u4F55\u6B73",
+    "__collections__": {
+    }
+  },
+  "z6B8EbGdJgNjQmTqVsXv": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u304A\u3044\u304F\u3064",
+    "index": 27,
+    "hasChild": false,
+    "mean": "Bao nhi\u00EAu tu\u1ED5i",
+    "description": "h\u1ECFi l\u1ECBch s\u1EF1 h\u01A1n \u4F55\u6B73",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2026%20-%20oikutsu.mp3?alt=media&token=cde90c8f-76a7-4d61-9640-6a5836db268f",
+    "__collections__": {
+    }
+  },
+  "A8DaFcJfMhPmSpUrXuZw": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u306F\u3044",
+    "index": 28,
+    "hasChild": false,
+    "mean": "V\u00E2ng, d\u1EA1, \u1EEB",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2027%20-%20hai.mp3?alt=media&token=229d54a8-51d4-44c8-8ef4-db5cc71dbacb",
+    "__collections__": {
+    }
+  },
+  "A7C9EcHeKgPkRnTrWtYw": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3044\u3044\u3048",
+    "index": 29,
+    "hasChild": false,
+    "mean": "Kh\u00F4ng",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2028%20-%20iie.mp3?alt=media&token=c3e89e9a-4609-4338-a09a-5b9ac1117a61",
+    "__collections__": {
+    }
+  },
+  "w3z6B8EbGdJgNjQmTqVs": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3057\u3064\u308C\u3044\u3067\u3059\u304C",
+    "index": 30,
+    "hasChild": false,
+    "mean": "Xin l\u1ED7i, t\u00F4i xin th\u1EA5t l\u1EC5",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2029%20-%20shitsuredesuga.mp3?alt=media&token=2b6b5b84-3f3c-450d-a03e-743bbfe1847c",
+    "__collections__": {
+    }
+  },
+  "y5B8DaFdJfMjQmSpVsXu": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u304A\u306A\u307E\u3048\u306F\uFF1F",
+    "index": 31,
+    "hasChild": false,
+    "mean": "T\u00EAn b\u1EA1n l\u00E0 g\u00EC?",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2030%20-%20onamewa.mp3?alt=media&token=b1e0e107-14e5-4a22-b3eb-d74eca953e06",
+    "__collections__": {
+    }
+  },
+  "Zw4z6B8EbGdJgNjQnTqV": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u306F\u3058\u3081\u307E\u3057\u3066",
+    "index": 32,
+    "hasChild": false,
+    "mean": "Xin ch\u00E0o anh",
+    "description": "D\u00F9ng khi l\u1EA7n \u0111\u1EA7u ti\u00EAn g\u1EB7p m\u1EB7t",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2031%20-%20hajimemashite.mp3?alt=media&token=1727799b-4be3-423d-ac1b-8d44e288cf31",
+    "read": "\u521D\u3081\u307E\u3057\u3066",
+    "__collections__": {
+    }
+  },
+  "Zx4z6B9EbGeKgNjRnTqV": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3069\u3046\u305E \u3088\u308D\u3057\u304F [\u304A\u306D\u304C\u3044\u3057\u307E\u3059]",
+    "index": 33,
+    "hasChild": false,
+    "mean": "T\u1EEB nay mong anh gi\u00FAp \u0111\u1EE1",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2032%20-%20douzo-yoroshiku-onegaishimasu.mp3?alt=media&token=8ad8786a-af08-4ce0-9e81-2172cf8c5a7a",
+    "__collections__": {
+    }
+  },
+  "tZw3y5B8DaFdJfMjQmSp": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3053\u3061\u3089\u306F",
+    "index": 34,
+    "hasChild": false,
+    "mean": "\u0110\u00E2y l\u00E0",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2033%20-%20kochirawa.mp3?alt=media&token=0bcef971-b080-4a6d-b841-5ea6b303597b",
+    "__collections__": {
+    }
+  },
+  "Yv2x5A7C9FcHeMhPkRpU": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\u3053\u3061\u3089\u306F \uFF5E\u3055\u3093\u3067\u3059\u3002",
+    "index": 35,
+    "hasChild": false,
+    "mean": "\u0110\u00E2y l\u00E0 anh (ch\u1ECB).....",
+    "description": "D\u00F9ng khi gi\u1EDBi thi\u1EC7u ng\u01B0\u1EDDi kh\u00E1c",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2034%20-%20kochirawa-sandesu.mp3?alt=media&token=7232f56c-1ec8-4500-92fa-e0217802e284",
+    "__collections__": {
+    }
+  },
+  "XuZx4z6B9EbGeKgNjRnT": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "name": "\uFF5E\u304B\u3089 \u304D\u307E\u3057\u305F\u3002",
+    "index": 36,
+    "hasChild": false,
+    "mean": "(t\u00F4i) \u0111\u1EBFn t\u1EEB \u2026\u2026..",
+    "description": "\u306B\u307B\u3093\u304B\u3089 \u304D\u307E\u3057\u305F\u3002<br>\r\nT\u00F4i \u0111\u1EBFn t\u1EEB Nh\u1EADt B\u1EA3n",
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%2035%20-%20kara-kimashita.mp3?alt=media&token=80f28953-10ca-4727-88ea-bb0ba77c9fd6",
+    "__collections__": {
+    }
+  },
+  "UrWtZw3y5B8DaGdJfMjQ": {
+    "pid": "K6WSAgV8RcLVF6tCcvfO",
+    "contentType": 3,
+    "name": "N1 \u306F N2 \u3067\u3059",
+    "index": 1,
+    "hasChild": false,
+    "text": "<p><strong>\uFF0A &Yacute; ngh\u0129a</strong>: N1 l&agrave; N2</p>\r\n<p><strong>\uFF0A C&aacute;ch d&ugrave;ng</strong> :</p>\r\n<p>- Danh t\u1EEB \u0111\u1EE9ng tr\u01B0\u1EDBc \u306Fl&agrave; ch\u1EE7 \u0111\u1EC1 ho\u1EB7c ch\u1EE7 ng\u1EEF trong c&acirc;u.</p>\r\n<p>- \u3067\u3059 \u0111\u01B0\u1EE3c s\u1EED d\u1EE5ng cu\u1ED1i c&acirc;u kh\u1EB3ng \u0111\u1ECBnh, bi\u1EC3u l\u1ED9 s\u1EF1 l\u1ECBch s\u1EF1 \u0111\u1ED1i v\u1EDBi ng\u01B0\u1EDDi nghe.</p>\r\n<p>- \u0110\u1EE9ng tr\u01B0\u1EDBc \u3067\u3059l&agrave; m\u1ED9t danh t\u1EEB ho\u1EB7c t&iacute;nh t\u1EEB.</p>\r\n<p><strong>\uFF0A Ch&uacute; y\u0301</strong>: \u306F khi l&agrave; tr\u1EE3 t\u1EEB \u0111\u01B0\u1EE3c \u0111\u1ECDc l&agrave; wa, kh&ocirc;ng ph\u1EA3i ha</p>\r\n<p><strong>\uFF0A V&iacute; d\u1EE5:</strong></p>\r\n<p>1) \u308F\u305F\u3057\u306F \u305F\u306A\u304B\u3067\u3059\u3002 T&ocirc;i l&agrave; Tanaka.</p>\r\n<p>2) \u308F\u305F\u3057\u306F \u5B66\u751F\u3067\u3059\u3002 T&ocirc;i l&agrave; sinh vi&ecirc;n.</p>",
+    "__collections__": {
+    }
+  },
+  "nTqVtYv2x5A7CaFcHeMh": {
+    "pid": "K6WSAgV8RcLVF6tCcvfO",
+    "contentType": 3,
+    "name": "N1 \u306F N2 \u3067\u306F\u3042\u308A\u307E\u305B\u3093\u3002",
+    "index": 2,
+    "hasChild": false,
+    "text": "<p><strong>\uFF0A &Yacute; ngh\u0129a</strong>: N1 kh&ocirc;ng ph\u1EA3i l&agrave; N2</p>\r\n<p><strong>\uFF0A C&aacute;ch d&ugrave;ng</strong>:</p>\r\n<p style=\"padding-left: 30px;\">- \u3067\u306F\u3042\u308A\u307E\u305B\u3093l&agrave; d\u1EA1ng ph\u1EE7 \u0111\u1ECBnh c\u1EE7a \u3067\u3059.</p>\r\n<p style=\"padding-left: 30px;\">- Trong h\u1ED9i tho\u1EA1i ng\u01B0\u1EDDi ta c&oacute; th\u1EC3 d&ugrave;ng \u3058\u3083\u3042\u308A\u307E\u305B\u3093thay cho \u3067\u306F\u3042\u308A\u307E\u305B\u3093</p>\r\n<p><strong>\uFF0A&nbsp;V&iacute; d\u1EE5</strong>:</p>\r\n<p style=\"padding-left: 30px;\">\u30E9\u30AA\u3055\u3093\u306F \u30A8\u30F3\u30B8\u30CB\u30A2\u3067\u306F\uFF08\u3058\u3083\uFF09\u3042\u308A\u307E\u305B\u3093\u3002&nbsp;</p>\r\n<p style=\"padding-left: 30px;\"><em>Anh Rao kh&ocirc;ng ph\u1EA3i l&agrave; k\u1EF9 s\u01B0.</em></p>\r\n<p><strong>\uFF0A Ch&uacute; y\u0301</strong> : \u3067\u306F \u0111\u1ECDc l&agrave; dewa</p>",
+    "__collections__": {
+    }
+  },
+  "mSpVsXuZx4z6B9EbGeKg": {
+    "pid": "K6WSAgV8RcLVF6tCcvfO",
+    "contentType": 3,
+    "name": "S + \u304B",
+    "index": 3,
+    "hasChild": false,
+    "text": "<p class=\"p1\"><strong>1) C&acirc;u h\u1ECFi nghi v\u1EA5n (c&acirc;u h\u1ECFi C&oacute; Kh&ocirc;ng)</strong></p>\r\n<p class=\"p1\"><strong><span class=\"s1\">\uFF0A </span>C&aacute;ch d&ugrave;ng:</strong></p>\r\n<p class=\"p1\" style=\"padding-left: 30px;\">- \u0110\u1EC3 t\u1EA1o m\u1ED9t c&acirc;u h\u1ECFi ch\u1EC9 c\u1EA7n th&ecirc;m \u304Bv&agrave;o cu\u1ED1i c&acirc;u.</p>\r\n<p class=\"p1\" style=\"padding-left: 30px;\">- C&acirc;u tr\u1EA3 l\u1EDDi cho lo\u1EA1i c&acirc;u h\u1ECFi n&agrave;y lu&ocirc;n ph\u1EA3i c&oacute; \u306F\u3044 (v&acirc;ng, \u0111&uacute;ng) ho\u1EB7c \u3044\u3044\u3048 (kh&ocirc;ng, kh&ocirc;ng ph\u1EA3i ). N\u1EBFu gi\u1EA3n l\u01B0\u1EE3c \u0111i b\u1ECB xem l&agrave; th\u1EA5t l\u1EC5.</p>\r\n<p class=\"p1\"><strong><span class=\"s1\">\uFF0A&nbsp;</span>V&iacute; d\u1EE5:</strong></p>\r\n<p class=\"p1\" style=\"padding-left: 30px;\">1. \u30DE\u30A4\u3055\u3093\u306F \u30D9\u30C8\u30CA\u30E0\u4EBA\u3067\u3059\u304B\u3002 <em>B\u1EA1n Mai l&agrave; ng\u01B0\u1EDDi Vi\u1EC7t Nam ph\u1EA3i kh&ocirc;ng?</em></p>\r\n<p class=\"p1\" style=\"padding-left: 30px;\">&hellip;\u306F\u3044\u3001\u30D9\u30C8\u30CA\u30E0\u4EBA\u3067\u3059\u3002 <em>&hellip; \u0110&uacute;ng, (b\u1EA1n \u1EA5y) l&agrave; ng\u01B0\u1EDDi Vi\u1EC7t Nam.</em></p>\r\n<p class=\"p1\" style=\"padding-left: 30px;\">2. \u30DF\u30E9\u3055\u3093\u306F \u5B66\u751F\u3067\u3059\u304B\u3002 <em>B\u1EA1n Mira l&agrave; h\u1ECDc sinh ph\u1EA3i kh&ocirc;ng?</em></p>\r\n<p class=\"p1\" style=\"padding-left: 30px;\">...\u3044\u3044\u3048\u3001\u5B66\u751F\u3067\u306F\u3042\u308A\u307E\u305B\u3093\u3002 <em>&hellip; Kh&ocirc;ng, (b\u1EA1n \u1EA5y) kh&ocirc;ng ph\u1EA3i l&agrave; h\u1ECDc sinh.</em></p>\r\n<p class=\"p1\"><strong>2) C&acirc;u h\u1ECFi c&oacute; t\u1EEB \u0111\u1EC3 h\u1ECFi</strong></p>\r\n<p class=\"p1\"><strong><span class=\"s1\">\uFF0A </span>C&aacute;ch d&ugrave;ng:</strong></p>\r\n<p class=\"p1\" style=\"padding-left: 30px;\">- V\u1ECB tr&iacute; \u0111\u1EB7t t\u1EEB \u0111\u1EC3 h\u1ECFi ch&iacute;nh l&agrave; ch\u1ED7 c&oacute; t\u1EEB m&agrave; b\u1EA1n mu\u1ED1n h\u1ECFi.</p>\r\n<p class=\"p1\" style=\"padding-left: 30px;\">- Cu\u1ED1i c&acirc;u h\u1ECFi \u0111\u1EB7t th&ecirc;m tr\u1EE3 t\u1EEB \u304B.</p>\r\n<p class=\"p1\"><strong><span class=\"s1\">\uFF0A </span>V&iacute; d\u1EE5:</strong></p>\r\n<p class=\"p1\" style=\"padding-left: 30px;\">\u3042\u306E\u4EBA\u306F \u3060\u308C\u3067\u3059\u304B\u3002 <em>Ng\u01B0\u1EDDi kia l&agrave; ai?</em></p>\r\n<p class=\"p1\" style=\"padding-left: 30px;\">&hellip;\uFF08\u3042\u306E\u4EBA\u306F\uFF09 \u5C71\u7530\u3055\u3093\u3067\u3059\u3002 <em>&hellip; ( Ng\u01B0\u1EDDi kia) L&agrave; anh Yamada.</em></p>\r\n<p class=\"p1\"><strong><span class=\"s2\"><span class=\"s1\">\uFF0A </span>Ch&uacute; y\u0301: </span></strong>Khi n&oacute;i th&igrave; l&ecirc;n gi\u1ECDng \u1EDF tr\u1EE3 t\u1EEB \u304B</p>",
+    "__collections__": {
+    }
+  },
+  "PkRpUrWtZw3y5B8DaGdJ": {
+    "pid": "K6WSAgV8RcLVF6tCcvfO",
+    "contentType": 3,
+    "name": "N \u3082",
+    "index": 4,
+    "hasChild": false,
+    "__collections__": {
+    }
+  },
+  "B8DbGdJfNjQmSqVsXv2x": {
+    "pid": "K6WSAgV8RcLVF6tCcvfO",
+    "contentType": 3,
+    "name": "N1 \u306EN2",
+    "index": 5,
+    "hasChild": false,
+    "__collections__": {
+    }
+  },
+  "eKhPkRnUrWtZw3y5B8Da": {
+    "pid": "K6WSAgV8RcLVF6tCcvfO",
+    "contentType": 3,
+    "name": "\uFF5E\u3055\u3093",
+    "index": 6,
+    "hasChild": false,
+    "__collections__": {
+    }
+  },
+  "SpVsXuZx4z6B9EbGeKgN": {
+    "pid": "K6WSAgV8RcLVF6tCcvfO",
+    "contentType": 3,
+    "name": "\uFF5E\u3055\u3044",
+    "index": 7,
+    "hasChild": false,
+    "__collections__": {
+    }
+  },
+  "Yv2y5A7CaFcHeMhPkRpU": {
+    "__collections__": {
+    }
+  },
+  "B8DaGdJfNjQmSqVsXu2x": {
+    "__collections__": {
+    }
+  },
+  "qWtYv3y5A7DaFcHfMhPm": {
+    "__collections__": {
+    }
+  },
+  "6B8EbGdJgNjQmTqVsXv2": {
+    "__collections__": {
+    }
+  },
+  "sYv2x4A7C9EcHeKgPkRn": {
+    "__collections__": {
+    }
+  },
+  "EbGdJgNjQnTqVsYv2x4A": {
+    "__collections__": {
+    }
+  },
+  "DaFcJfMhPmSpUsXuZw4z": {
+    "__collections__": {
+    }
+  }
+}

@@ -16,3 +16,4 @@ $node bin/index.js -s /workspace/kotoba_cli/cert/key.json -n Contents -e export.
 
 Import command sample
 $node bin/index.js -s /workspace/kotoba_cli/cert/key.json -n Contents -i import.json
+node bin/index.js -s /workspace/kotoba_cli/cert/key.json -n Contents -i MinaShokyuu_dai1ka.json

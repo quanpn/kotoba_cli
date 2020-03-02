@@ -1,0 +1,406 @@
+{
+  "5sSWcXJ4SMXVtj5THc3d": {
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575385480,
+        "_nanoseconds": 799665000
+      }
+    },
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575385480,
+        "_nanoseconds": 799656000
+      }
+    },
+    "pid": "bJOj9iVNKLvocyX9pMao",
+    "contentType": 1,
+    "name": "第 2 課",
+    "__collections__": {}
+  },
+  "BpfmOt8oVRpq9SxAehKI": {
+    "contentType": 1,
+    "name": "第 3 課",
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575385520,
+        "_nanoseconds": 212288000
+      }
+    },
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575385520,
+        "_nanoseconds": 212280000
+      }
+    },
+    "pid": "bJOj9iVNKLvocyX9pMao",
+    "__collections__": {}
+  },
+  "FOcBNkkExDarB7epS4Ms": {
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575907928,
+        "_nanoseconds": 640542000
+      }
+    },
+    "name": "～ちゃん",
+    "read": "",
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575907928,
+        "_nanoseconds": 640531000
+      }
+    },
+    "hasChild": false,
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "mean": "đi kèm theo tên, dùng để gọi các bé gái thay cho さん",
+    "description": "Linh ちゃん<br> Bé Linh",
+    "__collections__": {}
+  },
+  "K6WSAgV8RcLVF6tCcvfO": {
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575385668,
+        "_nanoseconds": 168306000
+      }
+    },
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575298374,
+        "_nanoseconds": 805680000
+      }
+    },
+    "pid": "TW1X5JlMjjJsAJOV5BtU",
+    "contentType": 1,
+    "name": "2 - 文法",
+    "__collections__": {}
+  },
+  "M6YZ0NnZhPDsd9zqt0A8": {
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575385531,
+        "_nanoseconds": 516783000
+      }
+    },
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575385531,
+        "_nanoseconds": 516776000
+      }
+    },
+    "pid": "bJOj9iVNKLvocyX9pMao",
+    "contentType": 1,
+    "name": "第 4 課",
+    "__collections__": {}
+  },
+  "QZhWZCmk0WnYCDQOqDoc": {
+    "read": "",
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575908019,
+        "_nanoseconds": 327871000
+      }
+    },
+    "hasChild": false,
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "mean": "đi kèm theo tên, dùng để gọi các bé trai thay cho さん",
+    "description": "[{\"insert\":\"VD:\\nしんくん\\nBé Shin\\n\\n\"}]",
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575908019,
+        "_nanoseconds": 327880000
+      }
+    },
+    "name": "～くん",
+    "__collections__": {}
+  },
+  "TW1X5JlMjjJsAJOV5BtU": {
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575385503,
+        "_nanoseconds": 138276000
+      }
+    },
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575298339,
+        "_nanoseconds": 503813000
+      }
+    },
+    "pid": "bJOj9iVNKLvocyX9pMao",
+    "contentType": 1,
+    "name": "第 1 課",
+    "__collections__": {}
+  },
+  "TqzlZB5wMN7WiZ92TxG9": {
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575907821,
+        "_nanoseconds": 848001000
+      }
+    },
+    "name": "～さん",
+    "read": "",
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575907821,
+        "_nanoseconds": 847961000
+      }
+    },
+    "hasChild": false,
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "mean": "Ông ~, Bà ~, Anh ~, Chị ~",
+    "description": "[{\"insert\":\"đi kèm theo tên, dùng để\\rgọi tên người khác một cách lịch sự\\nMai さん\\n(cô/chị/bạn) Mai\\n\"}]",
+    "__collections__": {}
+  },
+  "UrWtZw3y5B8DaGdJfMjQ": {
+    "name": "N1 は N2 です",
+    "text": "<p><strong>＊ &Yacute; nghĩa</strong>: N1 l&agrave; N2</p> <p><strong>＊ C&aacute;ch d&ugrave;ng</strong> :</p> <p>- Danh từ đứng trước はl&agrave; chủ đề hoặc chủ ngữ trong c&acirc;u.</p> <p>- です được sử dụng cuối c&acirc;u khẳng định, biểu lộ sự lịch sự đối với người nghe.</p> <p>- Đứng trước ですl&agrave; một danh từ hoặc t&iacute;nh từ.</p> <p><strong>＊ Ch&uacute; ý</strong>: は khi l&agrave; trợ từ được đọc l&agrave; wa, kh&ocirc;ng phải ha</p> <p><strong>＊ V&iacute; dụ:</strong></p> <p>1) わたしは たなかです。 T&ocirc;i l&agrave; Tanaka.</p> <p>2) わたしは 学生です。 T&ocirc;i l&agrave; sinh vi&ecirc;n.</p>",
+    "hasChild": false,
+    "index": 1,
+    "pid": "K6WSAgV8RcLVF6tCcvfO",
+    "contentType": 3,
+    "__collections__": {}
+  },
+  "VIKMI11ES7195uX6W8oc": {
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "mean": "vị đó, vị kia",
+    "description": "[{\"insert\":\"Cánh nói lịch sự của あの人\\n\"}]",
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575907514,
+        "_nanoseconds": 840341000
+      }
+    },
+    "name": "あのかた",
+    "read": "",
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575907514,
+        "_nanoseconds": 840319000
+      }
+    },
+    "hasChild": false,
+    "__collections__": {}
+  },
+  "ZgEuHzvWW9HafK0POMWn": {
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575385627,
+        "_nanoseconds": 705386000
+      }
+    },
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575298358,
+        "_nanoseconds": 168477000
+      }
+    },
+    "pid": "TW1X5JlMjjJsAJOV5BtU",
+    "contentType": 1,
+    "name": "1 - 言葉",
+    "__collections__": {}
+  },
+  "bJOj9iVNKLvocyX9pMao": {
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575298308,
+        "_nanoseconds": 984530000
+      }
+    },
+    "level": "N5",
+    "name": "Mina no nihongo I",
+    "coverUrl": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Images%2FMinaNoNihongoI%2Fmina_no_nihongo_1.jpg?alt=media&token=9ce887d9-12d8-41cd-bd04-e390f8cb055d",
+    "updateAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575384201,
+        "_nanoseconds": 682363000
+      }
+    },
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575298308,
+        "_nanoseconds": 984383000
+      }
+    },
+    "hasChild": true,
+    "contentType": 0,
+    "description": "[{\"insert\":\"Mina no nihongo I\\nContents:\\n1. Kotoba\\n2. Bunpō\\n3. Chōshu\\n\\n\"}]",
+    "__collections__": {}
+  },
+  "knAd0md5g7wlFTa4UWdp": {
+    "name": "わたし",
+    "read": "私",
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575298702,
+        "_nanoseconds": 867708000
+      }
+    },
+    "hasChild": false,
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "mean": "Tôi (ngôi thứ nhất số ít)",
+    "description": "[{\"insert\":\"\\n\"}]",
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575298702,
+        "_nanoseconds": 867727000
+      }
+    },
+    "audio": "https://firebasestorage.googleapis.com/v0/b/kotoba-1042b.appspot.com/o/Audios%2FMinano-Nihongo-I%2Fdai1ka%2Fkotoba%2F1%20-%201%20-%20watashi.mp3?alt=media&token=853b031c-379d-409d-bd29-70c5a3bb867a",
+    "__collections__": {}
+  },
+  "mKMXEBxRKZir7XDVq8qc": {
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575907195,
+        "_nanoseconds": 880372000
+      }
+    },
+    "name": "わたしたち",
+    "read": "私たち",
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575907195,
+        "_nanoseconds": 880162000
+      }
+    },
+    "hasChild": false,
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "mean": "Chúng tôi, chúng ta",
+    "description": "[{\"insert\":\"\\n\"}]",
+    "__collections__": {}
+  },
+  "nTqVtYv2x5A7CaFcHeMh": {
+    "pid": "K6WSAgV8RcLVF6tCcvfO",
+    "contentType": 3,
+    "name": "N1 は N2 ではありません。",
+    "text": "<p><strong>＊ &Yacute; nghĩa</strong>: N1 kh&ocirc;ng phải l&agrave; N2</p> <p><strong>＊ C&aacute;ch d&ugrave;ng</strong>:</p> <p style=\"padding-left: 30px;\">- ではありませんl&agrave; dạng phủ định của です.</p> <p style=\"padding-left: 30px;\">- Trong hội thoại người ta c&oacute; thể d&ugrave;ng じゃありませんthay cho ではありません</p> <p><strong>＊&nbsp;V&iacute; dụ</strong>:</p> <p style=\"padding-left: 30px;\">ラオさんは エンジニアでは（じゃ）ありません。&nbsp;</p> <p style=\"padding-left: 30px;\"><em>Anh Rao kh&ocirc;ng phải l&agrave; kỹ sư.</em></p> <p><strong>＊ Ch&uacute; ý</strong> : では đọc l&agrave; dewa</p>",
+    "hasChild": false,
+    "__collections__": {}
+  },
+  "rhd74C25xvV4TpHKlE2p": {
+    "contentType": 1,
+    "name": "3 - 聴取",
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575385705,
+        "_nanoseconds": 194092000
+      }
+    },
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575298420,
+        "_nanoseconds": 18837000
+      }
+    },
+    "pid": "TW1X5JlMjjJsAJOV5BtU",
+    "__collections__": {}
+  },
+  "tzcKuYtHKmUWa3uPTK1v": {
+    "read": "皆さん",
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575907699,
+        "_nanoseconds": 50768000
+      }
+    },
+    "hasChild": false,
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "mean": "Các bạn, các anh, các chị, mọi người…",
+    "description": "[{\"insert\":\"\\n\"}]",
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575907699,
+        "_nanoseconds": 50978000
+      }
+    },
+    "name": "みなさん",
+    "__collections__": {}
+  },
+  "whidiFD8QDKF2yTV0gbf": {
+    "contentType": 2,
+    "mean": "Bạn, ông, bà, anh, chị",
+    "description": "[{\"insert\":\"\\n\"}]",
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575907261,
+        "_nanoseconds": 348197000
+      }
+    },
+    "name": "あなた",
+    "read": "",
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575907261,
+        "_nanoseconds": 348189000
+      }
+    },
+    "hasChild": false,
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "__collections__": {}
+  },
+  "zOtOUsGtev2WncJ0Kt8P": {
+    "read": "",
+    "createdAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575907336,
+        "_nanoseconds": 34437000
+      }
+    },
+    "hasChild": false,
+    "pid": "ZgEuHzvWW9HafK0POMWn",
+    "contentType": 2,
+    "mean": "Người ấy, người kia",
+    "description": "[{\"insert\":\"\\n\"}]",
+    "updatedAt": {
+      "__datatype__": "timestamp",
+      "value": {
+        "_seconds": 1575907336,
+        "_nanoseconds": 34446000
+      }
+    },
+    "name": "あのひと",
+    "__collections__": {}
+  }
+}
