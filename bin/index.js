@@ -11,12 +11,15 @@ const options = yargs
   .option("n", { alias: "node", describe: "Node collection need do export/import", type: "string", demandOption: true })
   .option("e", { alias: "export", describe: "Path to file to export a collection", type: "string" })
   .option("i", { alias: "import", describe: "Path to file to import a collection", type: "string" })
+  .option("c", { alias: "clean", describe: "Clean all documents", type: "boolean" })
   .argv;
 
 if (options.export) {
   console.log(`Doing export to ${options.export}...`)
 } else if (options.import) {
   console.log(`Doing import from ${options.import}...`)
+} else if (options.clean) {
+  console.log(`Clean all documents in ${options.node}...`)
 } else {
   console.log("There is not any command...Do nothing");
   process.exit(1);
@@ -85,6 +88,20 @@ if (options.export) {
   );
 
 
+} else if (options.clean) {
+  firestoreLib.firestoreClear(collection)
+    .then(() => {
+      console.log('All documents have been deleted!');
+    })
+    .catch((error) => {
+      if (error instanceof Error) {
+        console.log(`${error.name}: ${error.message}`);
+        console.log(error.stack.toString());
+        process.exit(1);
+      } else {
+        console.log(error);
+      }
+    })
 }
 
 
